@@ -41,7 +41,7 @@ public class Pfizer(DateOnly lejar) : Vakcina(lejar)
 {
 	public override string Nev()
 	{
-		return "pfizer";
+		return "alma";
 	}
 
 	public override int Ism()
